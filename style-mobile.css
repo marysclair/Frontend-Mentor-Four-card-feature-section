@@ -1,0 +1,18 @@
+@media (min-width: 300px) and (max-width: 650px) {
+    #conteudo {
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+    #blocos {
+        flex-direction: column;
+    }
+    #p{
+        margin-top: 5%;
+        width: 80%;
+        margin-bottom: 15%;
+        font-size: 0.85rem;
+    }
+    h1, h2 {
+        font-size: 1.4rem;
+    }
+}
